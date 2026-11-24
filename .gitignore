@@ -1,0 +1,16 @@
+/AGENTS.md
+/PAPERS.md
+
+# Generated from the locally installed Hugging Face CLI
+/.agents/skills/hf-cli/
+
+# Local environments and credentials
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+
+# Review logs and traces before copying them into the public submission
+.local-runs/
+.local-traces/
